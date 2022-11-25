@@ -1,2 +1,1 @@
-# trex_color
-ejercicio
+# C18_LP_AA1
